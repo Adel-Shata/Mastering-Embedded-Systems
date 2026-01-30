@@ -1,3 +1,5 @@
+# Mastering_Embedded_System
+
 ## 📘 First Term ![In Progress](https://img.shields.io/badge/In%20Progress-25%25-orange)
 
 - **Unit 2: C Programming** 
@@ -15,7 +17,6 @@
 
 <br>
 
----
 ---
 <br>
   
@@ -35,7 +36,6 @@
 <br>
 
 ---
----
 <br>
 
 ## 📕 Third Term ![Start Soon](https://img.shields.io/badge/Start%20Soon-0%25-red)
@@ -45,10 +45,9 @@
 <br>
 
 ---
----
 <br>
 
-# 📊 Overall Progress ![Terms](https://img.shields.io/badge/Terms-0%20%2F%205-orange)
+# 📊 Overall Progress ![Stars](https://img.shields.io/badge/Stars-0%20%2F%205-orange)
 
 
 
