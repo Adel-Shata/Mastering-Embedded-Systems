@@ -1,6 +1,10 @@
 # Mastering_Embedded_System
 
-## 📘 First Term ![In Progress](https://img.shields.io/badge/In%20Progress-25%25-orange)
+## 📘 First Term ![In Progress](https://img.shields.io/badge/In%20Progress-38%25-yellow)
+
+- **Unit 1: Introduction** 
+
+  ![Progress](https://img.shields.io/badge/100%25%20Completed-brightgreen)
 
 - **Unit 2: C Programming** 
 
@@ -47,7 +51,7 @@
 ---
 <br>
 
-# 📊 Overall Progress ![Stars](https://img.shields.io/badge/Stars-0%20%2F%205-orange)
+# 📊 Overall Progress ![Stars](https://img.shields.io/badge/Stars-0%20%2F%205-red)
 
 
 
