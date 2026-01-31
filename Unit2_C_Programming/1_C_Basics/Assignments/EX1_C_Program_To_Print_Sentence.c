@@ -1,10 +1,10 @@
 /*
  ============================================================================
- Name        : Ex1.c
+ Name        : EX1_C_Program_To_Print_Sentence.c
  Author      : Adel Shata
  Version     :
  Copyright   : Your copyright notice
- Description : Hello World in C, Ansi-style
+ Description : C Program To Print Sentence, Ansi-style
  ============================================================================
  */
 
@@ -12,6 +12,6 @@
 #include <stdlib.h>
 
 int main(void) {
-	puts("C Programing"); /* prints !!!Hello World!!! */
+	printf("C Programing"); /* prints C Programing */
 	return 0;
 }
